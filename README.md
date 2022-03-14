@@ -13,6 +13,8 @@
 ---
 ![imagem_2022-03-13_220719](https://user-images.githubusercontent.com/75454785/158088496-f9372d96-c3bf-4f38-bf12-b8a6f26bd4d8.png)
 ![imagem_2022-03-13_220831](https://user-images.githubusercontent.com/75454785/158088499-1fcd6bbf-cd83-4c9f-97ec-422c6504849d.png)
+![imagem_2022-03-13_221214](https://user-images.githubusercontent.com/75454785/158088761-6eca1ec3-1ce4-497f-ab84-b01418ea82cf.png)
+![imagem_2022-03-13_221247](https://user-images.githubusercontent.com/75454785/158088770-404d9d03-9069-4ab5-9822-e0d11eec58b2.png)
 
 
 ### 🛠 Tecnologias
